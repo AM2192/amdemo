@@ -3,18 +3,20 @@ body{
     background-color: black;
     color: silver;
     font-family: Arial, Helvetica, sans-serif;
-
+    
 }
 @media(max-width: 1199.98px){
-  .responsive-font{
-    font-size: 15px;
-  }
+    .responsive-font{
+      font-size: 15px;
+    }
     .responsive-font2{
         font-size: 25px;
-}
+    }
+  }
 .imgf{
-    max-width: 100%;
-    max-height: 10%;
+max-width: 100%;
+max-height: 10%;
+    
 }
 
 
@@ -94,6 +96,7 @@ h1{
 }
 .image1{
     max-width: 40%;
+    max-height: 50%;
 }
 
 .img1{
