@@ -9,6 +9,8 @@ body{
   .responsive-font{
     font-size: 15px;
   }
+    .responsive-font2{
+        font-size: 25px;
 }
 .imgf{
     max-width: 100%;
