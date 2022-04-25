@@ -6,7 +6,7 @@ body{
 
 }
 @media(max-width: 1199.98px){
-  .text{
+  .responsive-font{
     font-size: 15px;
   }
 }
