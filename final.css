@@ -88,6 +88,9 @@ h1{
     
 
 }
+.image1{
+    max-width: 40%;
+}
 
 .img1{
     background-image: url(IMG_5215.jpeg);
